@@ -13,15 +13,11 @@
   * [✌ Required Software 2](course-logistics/required-hardware-and-software/required-software-2.md)
   * [👍 Recommended Set-up](course-logistics/required-hardware-and-software/recommended-set-up.md)
 * [🗓 Schedule](course-logistics/schedule-and-pairings/README.md)
-  * [📅 Batch 12 Schedule](course-logistics/schedule-and-pairings/batch-12-schedule.md)
+  * [📅 Batch 1 Schedule](course-logistics/schedule-and-pairings/batch-12-schedule.md)
   * [📅 Batch 13 Schedule](course-logistics/schedule-and-pairings/batch-13-schedule.md)
 * [💡 Tips and Tricks](course-logistics/tips-and-tricks/README.md)
   * [📒 Coding Strategies](course-logistics/tips-and-tricks/coding-strategies.md)
   * [🛠 Tooling Pro Tips](course-logistics/tips-and-tricks/tooling-pro-tips.md)
-* [🎓 Post-Course](course-logistics/post-course/README.md)
-  * [🎓 LinkedIn Certificates](course-logistics/post-course/linkedin-certificates.md)
-  * [🚂 Bootcamp Admission Criteria](course-logistics/post-course/bootcamp-admission-criteria.md)
-  * [📹 Bootcamp Video Application](course-logistics/post-course/bootcamp-video-application.md)
 
 ## 1: Introduction
 
@@ -109,7 +105,7 @@
 * [Day 8: Beat That Redux](in-class-exercises/day-8-beat-that-redux.md)
 * [Day 9: Moar Cards](in-class-exercises/day-9-moar-cards.md)
 * [Day 10: Chat Bot](in-class-exercises/day-10-chat-bot.md)
-* [Day 11: Blackjack Redux, DOM](in-class-exercises/day-11-blackjack-redux-debugger.md)
+* [Day 10: Blackjack Redux, DOM](in-class-exercises/day-11-blackjack-redux-debugger.md)
 
 ## Projects
 

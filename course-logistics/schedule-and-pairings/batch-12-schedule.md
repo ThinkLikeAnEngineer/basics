@@ -1,6 +1,6 @@
-# 📅 Batch 12 Schedule
+# 📅 Batch 1 Schedule
 
-## 📅 Batch 12 Schedule
+## 📅 Batch 1 Schedule
 
 ## Course Dates
 
@@ -14,13 +14,9 @@
 |   5  |  [14 Dec](batch-12-schedule.md#course-day-9) |     [18 Dec](batch-12-schedule.md#course-day-10)     |
 |   6  | [21 Dec](batch-12-schedule.md#course-day-11) | [23 Dec (Thurs)](batch-12-schedule.md#course-day-12) |
 
-## Sat 13 Nov, Week 0, Course Day 0: Pre-Course Briefing <a href="#course-day-0" id="course-day-0"></a>
+## Week 0, Course Day 0: Pre-Course Briefing <a href="#course-day-0" id="course-day-0"></a>
 
-Meeting time: **4:00 PM SGT** (GMT+8)
-
-{% hint style="warning" %}
-Day 0's pre-course briefing will run from 4-6pm instead of the usual 1-3pm. This is because the previous batch will be having their last class session from 1-3pm. Thank you for your understanding!
-{% endhint %}
+Meeting time: **Check Discord**
 
 ### Pre Class
 
@@ -38,9 +34,9 @@ Day 0's pre-course briefing will run from 4-6pm instead of the usual 1-3pm. This
    2. [Pre-Class Material](batch-12-schedule.md#pre-class)
 4. Section Introductions and Icebreakers
 
-## Tue 16 Nov, Week 1, Course Day 1: Coding Tools <a href="#course-day-1" id="course-day-1"></a>
+## Week 1, Course Day 1: Coding Tools <a href="#course-day-1" id="course-day-1"></a>
 
-Meeting time: 7:30 PM SGT (GMT+8)
+Meeting time: **Check Discord**
 
 ### Pre Class
 
@@ -70,9 +66,9 @@ Please **do not** attempt in-class material before class for all course days, so
 
 * [Day 1: Basic Data Manipulation](../../in-class-exercises/day-1-basic-file-and-data-manipulation.md)
 
-## Sat 20 Nov, Week 1, Course Day 2: Functions <a href="#course-day-2" id="course-day-2"></a>
+## Week 1, Course Day 2: Functions <a href="#course-day-2" id="course-day-2"></a>
 
-Meeting time: 1:00 PM SGT (GMT+8)
+Meeting time: **Check Discord**
 
 ### Pre Class
 
@@ -87,9 +83,9 @@ Total Video Watch Time: **\~25 mins**
 
 * [Day 2: Functions](https://basics.rocketacademy.co/in-class-exercises/day-2-functions)
 
-## Tue 23 Nov, Week 2, Course Day 3: Logic 1 <a href="#course-day-3" id="course-day-3"></a>
+## Week 2, Course Day 3: Logic 1 <a href="#course-day-3" id="course-day-3"></a>
 
-Meeting time: 7:30 PM SGT (GMT+8)
+Meeting time: **Check Discord**
 
 ### Pre Class
 
@@ -112,7 +108,7 @@ Total Video Watch Time: **\~40 mins**
 
 [Project 1: Scissors Paper Stone (Part 1)](https://basics.rocketacademy.co/projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-1)
 
-## Sat 27 Nov, Week 2, Course Day 4: Logic 2, State 1 <a href="#course-day-4" id="course-day-4"></a>
+## Week 2, Course Day 4: Logic 2, State 1 <a href="#course-day-4" id="course-day-4"></a>
 
 Meeting time: 1:00 PM SGT (GMT+8)
 
@@ -128,9 +124,9 @@ Total Video Watch Time: **\~41 mins**
 
 * [5.1: Program Lifecycle and Global State](https://basics.rocketacademy.co/8-managing-state-and-input-validation/8.1-program-lifecycle-and-state)
 
-**Module 7:  Version Control**
+**Module 7: Version Control**
 
-* [7.1: Git](broken-reference)
+* [7.1: Git](broken-reference/)
 
 ### In Class
 
@@ -140,9 +136,9 @@ Total Video Watch Time: **\~41 mins**
 
 [Project 1: Scissors Paper Stone (Part 2)](https://basics.rocketacademy.co/projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-2)
 
-## Tue 30 Nov, Week 3, Course Day 5: State 2 <a href="#course-day-5" id="course-day-5"></a>
+## Week 3, Course Day 5: State 2 <a href="#course-day-5" id="course-day-5"></a>
 
-Meeting time: 7:30 PM SGT (GMT+8)
+Meeting time: **Check Discord**
 
 ### Project Due: SPS 2
 
@@ -165,9 +161,9 @@ Total Video Watch Time: **\~17 mins**
 
 * [Day 5: Scissors Paper Stone Redux](https://basics.rocketacademy.co/in-class-exercises/day-5-scissors-paper-stone-redux)
 
-## Sat 4 Dec, Week 3, Course Day 6: Arrays, Loops 1 <a href="#course-day-6" id="course-day-6"></a>
+## Week 3, Course Day 6: Arrays, Loops 1 <a href="#course-day-6" id="course-day-6"></a>
 
-Meeting time: 1:00 PM SGT (GMT+8)
+Meeting time: **Check Discord**
 
 ### Pre Class
 
@@ -186,9 +182,9 @@ Total Video Watch Time: **\~41 mins**
 
 [Project 2: Beat That!](https://basics.rocketacademy.co/projects/project-2-beat-that)
 
-## Tue 7 Dec, Week 4, Course Day 7: Loops 2, Git <a href="#course-day-7" id="course-day-7"></a>
+## Week 4, Course Day 7: Loops 2, Git <a href="#course-day-7" id="course-day-7"></a>
 
-Meeting time: 7:30 PM SGT (GMT+8)
+Meeting time: **Check Discord**
 
 ### Pre Class
 
@@ -198,15 +194,15 @@ Total Video Watch Time: **\~11 mins**
 
 * [6.3: Loops with Arrays](https://basics.rocketacademy.co/9-arrays-and-iteration/9.3-loops-with-arrays)
 
-****
+***
 
 ### In Class
 
 * [Day 7: Loops and Arrays](https://basics.rocketacademy.co/in-class-exercises/day-7-arrays-and-loops)
 
-## Sat 11 Dec, Week 4, Course Day 8: GitHub <a href="#course-day-8" id="course-day-8"></a>
+## Week 4, Course Day 8: GitHub <a href="#course-day-8" id="course-day-8"></a>
 
-Meeting time: 1:00 PM SGT (GMT+8)
+Meeting time: **Check Discord**
 
 ### Project Due: Beat That!
 
@@ -227,9 +223,9 @@ Total Video Watch Time: **\~15 mins**
 
 * [Day 8: Beat That Redux](https://basics.rocketacademy.co/in-class-exercises/day-8-beat-that-redux)
 
-## Tue 14 Dec, Week 5, Course Day 9: Objects, Card Logic <a href="#course-day-9" id="course-day-9"></a>
+## Week 5, Course Day 9: Objects, Card Logic <a href="#course-day-9" id="course-day-9"></a>
 
-Meeting time: 7:30 PM SGT (GMT+8)
+Meeting time: **Check Discord**
 
 ### Pre Class
 
@@ -248,25 +244,9 @@ Total Video Watch Time: **\~16 mins**
 
 [Project 3: Blackjack](https://basics.rocketacademy.co/projects/project-3-blackjack)
 
-## Sat 18 Dec, Week 5, Course Day 10: Coding Strategies <a href="#course-day-10" id="course-day-10"></a>
+## Week 5, Course Day 10: Advanced <a href="#course-day-10" id="course-day-10"></a>
 
-Meeting time: 1:00 PM SGT (GMT+8)
-
-### Pre Class
-
-Total Video Watch Time: **\~60 mins**
-
-**Module 9: Objects**
-
-* [9.3: War Card Game Sample Implementation](https://basics.rocketacademy.co/10-javascript-objects/10.3-card-game-example-war)
-
-### In Class
-
-* [Day 10: Chat Bot](https://basics.rocketacademy.co/in-class-exercises/day-10-chat-bot)
-
-## Tue 21 Dec, Week 6, Course Day 11: Advanced <a href="#course-day-11" id="course-day-11"></a>
-
-Meeting time: 7:30 PM SGT (GMT+8)
+Meeting time: **Check Discord**
 
 ### Project Due
 
@@ -289,9 +269,9 @@ Total Video Watch Time: \~22 mins
 
 [Project 3: Blackjack (More Comfortable)](https://basics.rocketacademy.co/projects/project-3-blackjack#more-comfortable)
 
-## Thurs, 23 Dec: Course Day 12: Project Presentations <a href="#course-day-12" id="course-day-12"></a>
+## Week 6, Course Day 11: Project Presentations <a href="#course-day-11" id="course-day-11"></a>
 
-Meeting time: 7:30 PM SGT (GMT+8)
+Meeting time: **Check Discord**
 
 ### Project Due
 
@@ -299,11 +279,7 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 ### In Class
 
-* [Project presentations](https://basics.rocketacademy.co/course-logistics/course-methodology#project-presentations)
-* Course Feedback and Reviews
-* LinkedIn certificate presentations
-* Class Photo 🥳
-* Closing Ceremony 🎓
+* Project presentations
 
 ## Further Reading
 
