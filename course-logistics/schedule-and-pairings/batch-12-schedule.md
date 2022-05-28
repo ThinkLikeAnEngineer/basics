@@ -2,18 +2,6 @@
 
 ## 📅 Batch 1 Schedule
 
-## Course Dates
-
-| Week |                    Tuesday                   |                       Saturday                       |
-| :--: | :------------------------------------------: | :--------------------------------------------------: |
-|   0  |                       -                      |      [13 Nov](batch-12-schedule.md#course-day-0)     |
-|   1  |  [16 Nov](batch-12-schedule.md#course-day-1) |      [20 Nov](batch-12-schedule.md#course-day-2)     |
-|   2  |  [23 Nov](batch-12-schedule.md#course-day-3) |      [27 Nov](batch-12-schedule.md#course-day-4)     |
-|   3  |  [30 Nov](batch-12-schedule.md#course-day-5) |      [4 Dec](batch-12-schedule.md#course-day-6)      |
-|   4  |  [7 Dec](batch-12-schedule.md#course-day-7)  |      [11 Dec](batch-12-schedule.md#course-day-8)     |
-|   5  |  [14 Dec](batch-12-schedule.md#course-day-9) |     [18 Dec](batch-12-schedule.md#course-day-10)     |
-|   6  | [21 Dec](batch-12-schedule.md#course-day-11) | [23 Dec (Thurs)](batch-12-schedule.md#course-day-12) |
-
 ## Week 0, Course Day 0: Pre-Course Briefing <a href="#course-day-0" id="course-day-0"></a>
 
 Meeting time: **Check Discord**
